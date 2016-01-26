@@ -1,0 +1,21 @@
+{
+  "name": "testing_grounds",
+  "authors": [
+    "Tvrtko <tvrtkom@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "~1.20.0"
+  }
+}
